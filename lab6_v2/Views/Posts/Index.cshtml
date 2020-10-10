@@ -1,0 +1,77 @@
+﻿@model IEnumerable<lab6_v2.Models.Post>
+
+
+<p>
+    <a asp-action="Create" asp-route-id="@ViewBag.id">Reply</a>
+</p>
+
+<div class="main">
+
+    @foreach (var item in Model.Where(b => b.TopicId == ViewBag.id).ToList())
+    {
+        <div class="item">
+            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+            <a asp-action="Attach" asp-route-id="@item.Id">Attach</a> |
+            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            <div>@item.Text</div>
+            <div>by @item.UserName</div>
+            <div>
+                @foreach (var image in @item.Images.Where(b => b.PostId == item.Id).ToList())
+                {
+                    <div class="item-gallery">
+                        <img class="item-gallery__img" src="data:image/jpeg;base64,@Convert.ToBase64String(@image.Img)" />
+                        <a class="item-gallery__del" asp-action="DeleteImage" asp-route-id="@image.Id">Delete</a>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+
+</div>
+
+
+
+<style>
+    .main {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+
+    .item {
+        border-bottom: 1px solid #ccc;
+        width: 100%;
+        text-decoration: none;
+        color: black;
+        padding: 25px;
+    }
+
+        .item a:hover {
+            text-decoration: none;
+        }
+
+
+    .item-gallery {
+        width: 300px;
+        text-align: center;
+        display: inline-block;
+    }
+
+    .item-gallery__img {
+        height: 300px;
+        width: 100%;
+        margin: 10px;
+        border: 1px solid red;
+        border-radius: 5px;
+    }
+
+    .item-gallery__del {
+        width: 100%;
+        height: 30px;
+        padding: 10px;
+        background-color: green;
+        color: white;
+        font-weight: bold;
+    }
+</style>
+

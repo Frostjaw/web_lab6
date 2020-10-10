@@ -1,0 +1,60 @@
+﻿@model lab6_v2.Models.Image
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Image</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group">
+                <label asp-for="PostId" class="control-label"></label>
+                <select asp-for="PostId" class ="form-control" asp-items="ViewBag.PostId"></select>
+            </div>*@
+
+            <input type="file" name="ttt"/>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#formAll").submit(function (event) {
+            event.preventDefault();
+
+            var formData = new FormData();
+            formData.append('Member_NameFirst', $('#Member_NameFirst').val());
+            formData.append('Member_UploadPicture', $('#Member_UploadPicture')[0].files[0]);
+        $.ajax({
+                url: "https://localhost:44307/home/getmember",
+                type: 'POST',
+                data: formData,
+                dataType: 'json',
+                processData: false,
+                contentType: false,
+                success: function (data) {
+                    //code
+                },
+                error: function (error) {
+                    //code
+                }
+            });
+        })        })
+</script>

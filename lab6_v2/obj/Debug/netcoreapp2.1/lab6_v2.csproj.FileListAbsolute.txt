@@ -1,0 +1,104 @@
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.deps.json
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.runtimeconfig.json
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.runtimeconfig.dev.json
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.dll
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.pdb
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.Views.dll
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.Views.pdb
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.csprojAssemblyReference.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.csproj.CoreCompileInputs.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorAssemblyInfo.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorAssemblyInfo.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.AssemblyInfoInputs.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.AssemblyInfo.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.TagHelpers.input.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.TagHelpers.output.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorCoreGenerate.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorTargetAssemblyInfo.cache
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorTargetAssemblyInfo.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.Views.pdb
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.dll
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.pdb
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.csproj.CopyComplete
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Topics\Create.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Topics\Details.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Topics\Index.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Create.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Delete.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Details.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Edit.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Index.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Images\Create.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Images\Delete.g.cshtml.cs
+C:\Users\Kvesko IR\source\repos\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Images\View.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.deps.json
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.runtimeconfig.json
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.runtimeconfig.dev.json
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.dll
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.pdb
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.Views.dll
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\bin\Debug\netcoreapp2.1\lab6_v2.Views.pdb
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.csprojAssemblyReference.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.csproj.CoreCompileInputs.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorAssemblyInfo.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorAssemblyInfo.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.AssemblyInfoInputs.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.AssemblyInfo.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.TagHelpers.input.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.TagHelpers.output.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorCoreGenerate.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Images\Create.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Images\Delete.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Images\View.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Create.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Delete.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Details.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Edit.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Posts\Index.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Topics\Create.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Topics\Details.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\Topics\Index.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorTargetAssemblyInfo.cache
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.RazorTargetAssemblyInfo.cs
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.Views.pdb
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.dll
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.pdb
+D:\Учеба\3 course\Web-технология\Лабы 2 сем\lab6_v2-20190529T134624Z-001\lab6_v2\lab6_v2\obj\Debug\netcoreapp2.1\lab6_v2.csproj.CopyComplete

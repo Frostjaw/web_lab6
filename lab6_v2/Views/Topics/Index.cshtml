@@ -1,0 +1,58 @@
+﻿@model IEnumerable<lab6_v2.Models.Topic>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Forum @ViewBag.name (@ViewBag.id)</h2>
+
+<p>
+    <a asp-action="Create" asp-route-id="@ViewBag.id">Create New</a>
+</p>
+
+<div class="main">
+
+    @foreach (var item in Model)
+    {
+        @if (@ViewBag.id == item.CategoryId)
+        {
+            <div class="main-item">
+                <a asp-action="Details" asp-route-id="@item.Id">
+                    <h1 class="main-item__title">@Html.DisplayFor(modelItem => item.Title)</h1>
+
+                    <div>by @Html.DisplayFor(modelItem => item.UserName)</div>
+
+                    <div>Replies: @item.Posts.Count()</div>
+
+                </a>
+            </div>
+        }
+
+    }
+
+</div>
+
+
+
+<style>
+    .main {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        position: relative;
+    }
+
+    .main-item {
+        border-bottom: 1px solid #ccc;
+        width: 100%;
+        text-decoration: none;
+        color: black;
+    }
+
+        .main-item a:hover {
+            text-decoration: none;
+        }
+
+    .main-item__title {
+        color: blue;
+    }
+</style>
