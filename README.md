@@ -1,3 +1,3 @@
 # web_lab6
  
-Hospital asp.net mvc project
+Forum asp.net mvc project
